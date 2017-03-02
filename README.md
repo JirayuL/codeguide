@@ -1,6 +1,6 @@
 # codeguide
 ## Encapsulate What Changes
-Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them. For example, in the `coinpurse` lab we try to encapsulate the `Purse class` and it related class so that when we modify we don't have to make many collection in input and output logic(`ConsoleDialog`).
+**Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.** For example, in the `coinpurse` lab we try to encapsulate the `Purse class` and it related class so that when we modify we don't have to make many collection in input and output logic(`ConsoleDialog`).
 
 ```Java
 //In ConsoleDialog class
