@@ -10,15 +10,15 @@ package codeguide;
 public class EncapsulateWhatChanges {
 	public static void main(String[] args) {
 		// TODO Change the privacy of Person to be able to access it from main. Uncomment below and start.
-//		// Fix the code below.
+		// Fix the code below.
 //		Human human1 = new Human("Gear");
 //		System.out.println(human1.toString());
 //		System.out.println(human1.getName());
 //		Human human2 = new Human("Jirayu");
 //		System.out.println(human2.toString());
 //		System.out.println(human2.getName());
-//
-//		// Code below must error. When finish comment below.
+
+		// Code below must error. When finish comment below.
 //		human1.setName("foo");
 //		human2.setName("bar");
 //		human1.name = "foo";
