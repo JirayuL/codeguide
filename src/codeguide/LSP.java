@@ -12,7 +12,7 @@ package codeguide;
 
 public class LSP {
 	public static void main(String[] args) {
-		// Answer the question below. Use information in Person class and Student class below the LSP class.
+		// TODO Answer the question below. Use information in Person class and Student class below the LSP class.
 		// 1. Can we call this?
 		Person person1 = new Person("foo");
 		// Answer : 

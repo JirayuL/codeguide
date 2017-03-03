@@ -49,7 +49,7 @@ class Human {
 	 * @return Return name of Student.
 	 */
 	// TODO Changes the privacy of class.
-	private String getName() {
+	String getName() {
 		return name;
 	}
 
